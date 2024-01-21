@@ -40,8 +40,3 @@ The application will print summaries for each function in the provided Python co
 ## Sample Python Code
 You can use the provided sample Python code in the `sample_code.py` file for testing the application.
 
-## Issues and Contributions
-If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
